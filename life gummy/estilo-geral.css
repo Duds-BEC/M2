@@ -108,6 +108,8 @@ button img {
 
 #comprarAgora{
     display: flex;
+    width: 100%;
+    justify-content: center;
 }
 #comprarAgora img{
     border-top-left-radius: 30px; /* Define o raio da borda superior esquerda */
